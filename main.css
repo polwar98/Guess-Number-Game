@@ -1,0 +1,178 @@
+body
+{
+	margin: 0;
+	background-color: green;
+	color: white;
+    font-family: 'Times New Roman';
+    font-size: 28px;
+}
+
+a:link   { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:active  { text-decoration: none; }
+a:hover   { text-decoration: none; }
+
+h1
+{
+	font-size: 48px;
+	font-weight: 400;
+	text-align: center;
+	letter-spacing: 5px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+p
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
+.content
+{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+footer
+{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    text-align: center;
+    background-color: gray;
+}
+.footer a
+{
+    text-decoration: none;
+}
+.logs
+{
+	height: 240px;
+	margin-left: 20%;
+	margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    padding: 2px 10px;
+    text-align: left;
+	overflow-y: scroll;
+    overflow-x: hidden;
+}
+.bold
+{
+    font-weight: 700;
+}
+.scale
+{
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+.square
+{
+    width: 80px;
+    height: 70px;
+    float: left;
+    margin-right: 10px;
+    color: white;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.reset
+{
+    margin-top: 30px;
+    border: 2px solid gold;
+    background-color: purple;
+}
+.reset:hover
+{
+    color: black;
+}
+#sq0
+{
+    background-color: #ff0000;
+}
+#sq1
+{
+    background-color: #ff4000;
+}
+#sq2
+{
+    background-color: #ff8000;
+}
+#sq3
+{
+    background-color: #ffbf00;
+}
+#sq4
+{
+    background-color: #ffff00;
+}
+#sq5
+{
+    background-color: #bfff00;
+}
+#sq6
+{
+    background-color: #80ff00;
+}
+#sq7
+{
+    background-color: #40ff00;
+}
+#sq8
+{
+    background-color: #00ff00;
+}
+.sq0a
+{
+    color: #ff0000;
+}
+.sq1a
+{
+    color: #ff4000;
+}
+.sq2a
+{
+    color: #ff8000;
+}
+.sq3a
+{
+    color: #ffbf00;
+}
+.sq4a
+{
+    color: #ffff00;
+}
+.sq5a
+{
+    color: #bfff00;
+}
+.sq6a
+{
+    color: #80ff00;
+}
+.sq7a
+{
+    color: #40ff00;
+}
+.sq8a
+{
+    color: #00ff00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
